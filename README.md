@@ -9,10 +9,10 @@ Project Carabao is a personal repository showcasing my web development, software
 ## 🛠 Tech Stack
 
 This repository includes projects built with a variety of tools and technologies, such as:
- 
+- **Frontend**: Next.js, React, Tailwind CSS
 - **Backend**: Node.js, Express
 - **Database**: Supabase
-<!-- **Frontend**: Next.js, React, Tailwind CSS
+<!--
 - **DevOps & Tools**: Docker, Vercel, GitHub Actions -->
 
 ## 🌟 Featured Projects
