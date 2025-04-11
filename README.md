@@ -1,7 +1,7 @@
 # Project Carabao
 
-![Frame 116](https://github.com/user-attachments/assets/310532bb-f4a2-4029-82da-e2c171d24e55)
 
+![banner](https://github.com/user-attachments/assets/a341ec76-329d-4481-8bae-c76650bdc887)
 ## 🚀 About the Project
 
 Project Carabao is a personal repository showcasing my web development, software development and different kinds of projects. It serves as a portfolio of completed projects, experiments, and ongoing work across various technologies.
